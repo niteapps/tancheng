@@ -1,0 +1,10 @@
+## This is TanCheng app Help page. If you have any questions about this app, please contact us or leave message at this web ##
+![home image](https://github.com/niteapps/tancheng/blob/main/en-01.jpg)
+![home image](https://github.com/niteapps/tancheng/blob/main/en-02.jpg)
+![home image](https://github.com/niteapps/tancheng/blob/main/en-04.jpg)
+![home image](https://github.com/niteapps/tancheng/blob/main/en-05.jpg)
+![home image](https://github.com/niteapps/tancheng/blob/main/en-06.jpg)
+![home image](https://github.com/niteapps/tancheng/blob/main/en-07.jpg)
+![home image](https://github.com/niteapps/tancheng/blob/main/en-08.jpg)
+![home image](https://github.com/niteapps/tancheng/blob/main/en-09.jpg)
+![home image](https://github.com/niteapps/tancheng/blob/main/en-10.jpg)
